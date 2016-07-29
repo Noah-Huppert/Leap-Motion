@@ -1,3 +1,4 @@
+Project Status: Outdated (Projects have been moved to seperate repos) 
 Leap-Motion
 ===========
 
